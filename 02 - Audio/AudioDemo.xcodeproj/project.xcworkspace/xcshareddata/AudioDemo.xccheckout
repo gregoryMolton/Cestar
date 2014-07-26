@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EBB938C-DB05-4A5D-A165-0ECC352B7AF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AudioDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95CF10DD-60AE-4455-BBBA-ED83C54AE996</key>
+		<string>https://github.com/gregoryMolton/Cestar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>02 - Audio/AudioDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95CF10DD-60AE-4455-BBBA-ED83C54AE996</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gregoryMolton/Cestar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95CF10DD-60AE-4455-BBBA-ED83C54AE996</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95CF10DD-60AE-4455-BBBA-ED83C54AE996</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cestar</string>
+		</dict>
+	</array>
+</dict>
+</plist>

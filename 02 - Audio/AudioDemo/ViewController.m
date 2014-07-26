@@ -15,6 +15,7 @@
     [super viewDidLoad];
 	
     // Disable Stop/Play button when application launches
+    // step 1
     [stopButton setEnabled:NO];
     [playButton setEnabled:NO];
     
